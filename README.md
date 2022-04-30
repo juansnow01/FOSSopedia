@@ -13,4 +13,4 @@ FOSS apps allow more people to review the code and can potentially make changes 
 
 As time goes on and I learn more about FOSS I will be adding more to this README and to the lists I make. Feel free to put me on game when you see something is missing or incorrect. 
 
-"A rising tide lift all boats" -Snoop Dogg
+"A rising tide lifts all boats" -Snoop Dogg
