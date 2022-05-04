@@ -15,12 +15,12 @@ As time goes on and I learn more about FOSS I will be adding more to this README
 
 "A rising tide lifts all boats" -Snoop Dogg
 
-Lets start with iOS devices
+# Lets start with iOS devices
 
 
-**Before I go into it, it is important to remember that these are the apps I use/have used before, there are many others I'm sure I wont mention. These are also apss youll be able to run FOR FREE with minimal fuss. 
+### Before I go into it, it is important to remember that these are the apps I use/have used before, there are many others I'm sure I wont mention. These are also apss youll be able to run FOR FREE with minimal fuss. Some do have paid subscriptions, but are still FOSS. 
 
-Browsers:
+## Browsers:
 
 - [OnionBrowser](https://onionbrowser.com/)
 - [Firefox](https://www.mozilla.org/en-GB/firefox/browsers/)
@@ -31,21 +31,21 @@ Important to note that, to quote the OnionBrowser website regarding iOS browsers
 
 They also go into more detail [here](https://github.com/OnionBrowser/OnionBrowser/wiki/Traffic-that-leaks-outside-of-Tor-due-to-iOS-limitations)
 
-VPN:
+## VPN:
 
 - [ProtonVPN](https://protonvpn.com/)
 - [Orbot](https://orbot.app/)
 
 Both of these VPNs are free, Protonmail VPN does require a PM account, which is free to set up [here](https://protonmail.com/signup), Orbot does not require ANYTHING for sign up whic I enjoy for privacy reasons. Orbot does not, however, allow you to choose your server the same way a typical VPN would. 
 
-Notes:
+## Notes:
 
 - [Standard Notes](https://standardnotes.com/) (maybe my favorite app of them all)
 - [Joplin](https://joplinapp.org/)
 
 Both of these services are cross platform making it super simple to start a note and continue it on another device for ease of movement. Both of these also use encryption for added safety. Your thoughts are yours.
 
-E-mail:
+## E-mail:
 
 - [ProtonMail](https://protonmail.com/)
 - [Tutanota](https://tutanota.com/)
@@ -54,7 +54,7 @@ These are alternate email providers apart from the typical Gmail, iCloud, etc. B
 
 As far as privacy, E-mail isnt private so don't even try it! Always assume someone at a 3 letter agency can read your emails. Thats a discussion for another time. 
 
-Messaging:
+## Messaging:
 
 - [Signal](https://signal.org/en/)
 - [Session](https://getsession.org/)
