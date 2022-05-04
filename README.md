@@ -61,4 +61,4 @@ As far as privacy, E-mail isnt private so don't even try it! Always assume someo
 
 A lot of folks with tell you that telegram is also an option but they aren't FOSS as far as I know, they do have some open source clients though, DENIED!
 
-With regard to privacy, mobile is a nightmare compared to desktop/laptops but this is simply to showcase the FOSS pass I use on my iOS device for those looking to incorporate some FOSS into their iPhone. 
+With regard to privacy, mobile is a nightmare compared to desktop/laptops but this is simply to showcase the FOSS apps I use on my iOS device for those looking to incorporate some FOSS into their iPhone. 
